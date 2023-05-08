@@ -114,7 +114,7 @@
 
   .button:hover{
     background-color: goldenrod;
-    transition: 1s;
+    transition: 0.5s;
   }
 
   /* Clear floats after the columns */
