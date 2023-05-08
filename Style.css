@@ -275,6 +275,10 @@ a.social.instagram::before{
   background-color: #d12c7a;
 }
 
+a.social.github::before{
+  background-color: #666666;
+}
+
 a.social:hover svg{
   transform: rotate(360deg);
 }
