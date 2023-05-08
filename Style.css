@@ -254,9 +254,11 @@ a.social{
   display: flex;
   justify-content: center;
   align-items: center;
+  float: left;
 }
 
 a.social::before{
+   content: '';
   background-color: #252525;
   width: 100%;
   height: 100%;
