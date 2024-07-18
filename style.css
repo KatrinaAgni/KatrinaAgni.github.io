@@ -1,0 +1,29 @@
+body {
+    font-family: 'Raleway', sans-serif;
+  }
+  .bgimg-1 {
+    background-image: url('your-image.jpg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+  }
+  .navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255,.9);
+  }
+  .jumbotron {
+    background: rgba(0,0,0,0.5);
+    color: white;
+  }
+  section .container .row img{
+    padding: 0 0 15% 0; 
+  }
+  .modal-content {
+    background-color: rgba(0,0,0,0.7);
+  }
+  .modal-content img {
+    width: 100%;
+  }
+  section {
+    padding-top: 70px; /* Assuming your navbar height is 70px */
+    scroll-margin-top: 70px; /* This will offset the scroll position */
+  }
