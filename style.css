@@ -27,3 +27,24 @@ body {
     padding-top: 70px; /* Assuming your navbar height is 70px */
     scroll-margin-top: 70px; /* This will offset the scroll position */
   }
+  .fa {
+    padding: 20PX;
+    font-size: 30px;
+    width: 80px;
+    text-align: center;
+    text-decoration: none;
+    margin: 50px 2px;
+    align-items: center;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
